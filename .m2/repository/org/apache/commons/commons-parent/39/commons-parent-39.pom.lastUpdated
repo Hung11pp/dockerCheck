@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 12 10:24:32 UTC 2024
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1705055072266
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.commons\:commons-parent\:pom\:39 from/to central (https\://repo.maven.apache.org/maven2)\: /root/.m2/repository/org/apache/commons/commons-parent/39/commons-parent-39.pom.2213349592359745459.tmp.4796098001192019392.tmp -> /root/.m2/repository/org/apache/commons/commons-parent/39/commons-parent-39.pom.2213349592359745459.tmp
