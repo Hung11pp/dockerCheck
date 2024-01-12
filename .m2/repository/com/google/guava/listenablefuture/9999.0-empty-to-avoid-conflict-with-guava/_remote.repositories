@@ -1,3 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Jan 12 10:24:43 UTC 2024
+#Fri Jan 12 15:45:03 UTC 2024
+listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar>central=
 listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.pom>central=
